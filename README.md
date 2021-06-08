@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arshealam4
-- 👀 I'm currently working as a full stack developer @ Labaiik.com
+- 👀 I'm currently working as a full stack developer @ https://Labaiik.com
 - 🌱 I’m currently learning microservices
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - arshealam4@gmail.com
